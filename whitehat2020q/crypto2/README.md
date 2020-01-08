@@ -1,7 +1,7 @@
 # Crypto02
 
 WhiteHat quals were kinda wack, but I managed to get third with Dice Gang.
-There weren't many cool challenges, I guess this was a somewhat interesting.
+There weren't many cool challenges, but I guess this was a somewhat interesting.
 
 We're given a server that sends us a base64-encoded then encrypted then base64-encoded "question",
 and we have to answer that question.  First thing to note: the encryption is in counter mode,
