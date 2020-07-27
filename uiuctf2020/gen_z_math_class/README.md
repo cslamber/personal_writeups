@@ -122,7 +122,7 @@ better.
 
 Running this against the server resulted in a crash, not the flag like I had hoped.
 
-![the crash](fail.png)
+![the crash](failed.png)
 
 So, I checked my teammates to see if they could reproduce the crash, or if it
 popped the flag fore them too.  One teammate (noopnoop) had the crash, and it
