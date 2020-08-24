@@ -63,7 +63,7 @@ zeroct, _ = read(), read() # we don't care about the tag
 
 
 S = [None for _ in range(8)]
-for i in range(3): # for S1/S5, S2/S6, S3/S7
+for i in range(3): # for S0/S4, S7/S3, S6/S2
 	round = [[None for _ in range(16)] for _ in range(2)]
 	known = [[None for _ in range(4)] for _ in range(2)]
 	for diffround, (diff, _) in enumerate(differentials.p1dd):
